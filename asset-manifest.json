@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bhargavigunji/Portfolio/static/css/main.02200409.css",
+    "main.js": "/bhargavigunji/Portfolio/static/js/main.e1dd9d4d.js",
+    "static/js/453.6264690d.chunk.js": "/bhargavigunji/Portfolio/static/js/453.6264690d.chunk.js",
+    "index.html": "/bhargavigunji/Portfolio/index.html",
+    "main.02200409.css.map": "/bhargavigunji/Portfolio/static/css/main.02200409.css.map",
+    "main.e1dd9d4d.js.map": "/bhargavigunji/Portfolio/static/js/main.e1dd9d4d.js.map",
+    "453.6264690d.chunk.js.map": "/bhargavigunji/Portfolio/static/js/453.6264690d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02200409.css",
+    "static/js/main.e1dd9d4d.js"
+  ]
+}
