@@ -9,22 +9,22 @@ export default function Experience() {
 
       <div className="max-w-4xl mx-auto space-y-8 px-6">
 
-        {/* Research & Development Engineer — Missouri S&T */}
+        {/* Software Engineer - (AI & Data Platforms) - MST  */}
         <motion.div
           whileHover={{ scale: 1.02 }}
           className="bg-white p-8 rounded-3xl shadow-md"
         >
           <h3 className="text-xl font-bold text-purple-600">
-            Research & Development Engineer — Missouri S&T
+            Software Engineer (AI & Data Platforms) - Missouri S&T
           </h3>
           <p className="text-gray-500 mt-1">Jul 2025 – Present | Rolla, MO</p>
 
           <p className="text-gray-700 mt-3 leading-relaxed">
-            Building AI-driven data pipelines, automation scripts, and intelligent 
-            web-scraping tools using Python, ML models, BeautifulSoup, and Selenium.
-            Designing scalable data-processing workflows for cleaning, transforming, 
-            and preparing large datasets. Improving automation and execution time of 
-            research workflows by optimizing preprocessing and pipeline performance.
+          Working as a Machine Learning Engineer to design and deliver production-grade data pipelines and automation systems supporting institutional AI research initiatives.
+          Architected scalable end-to-end data pipelines handling 50,000+ records with high reliability, ensuring consistent data quality for downstream machine learning workflows. 
+          Built high-velocity automation tools using Python, Selenium, and BeautifulSoup to extract data from dynamic web sources, improving data collection speed by 80%. 
+          Optimized data ingestion and preprocessing workflows to reduce execution latency and support large-scale ML experimentation. 
+          Deployed predictive machine learning models to analyze user behavior and transform raw research data into actionable insights for algorithmic decision-making.
           </p>
         </motion.div>
 
@@ -34,17 +34,19 @@ export default function Experience() {
           className="bg-white p-8 rounded-3xl shadow-md"
         >
           <h3 className="text-xl font-bold text-purple-600">
-            Website Developer — Missouri S&T
+          Full Stack Web Engineer - Missouri S&T
           </h3>
           <p className="text-gray-500 mt-1">Sep 2024 – May 2025 | Rolla, MO</p>
 
           <p className="text-gray-700 mt-3 leading-relaxed">
-            Developed and maintained research-focused websites using HTML, CSS, 
-            JavaScript, PHP, and WordPress. Improved website performance through 
-            caching, image optimization, lazy loading, and responsive layouts. 
-            Built custom templates and reusable components to streamline updates. 
-            Collaborated with faculty and students to present robotics research, 
-            publications, and project details clearly and effectively.
+          Led the full-cycle development of scalable, high-performance web platforms for engineering faculty, 
+          with a strong focus on performance, maintainability, and technical SEO.
+          Designed and implemented responsive web applications using HTML, CSS, 
+          JavaScript, PHP, and MySQL, maintaining 99.9% uptime for academic and research content. 
+          Improved website performance by optimizing caching strategies, implementing lazy loading, 
+          and applying image compression techniques to significantly reduce page load times. 
+          Developed modular templates and reusable components to streamline future development and reduce maintenance overhead. 
+          Managed backend integrations, database operations, and server configurations to support secure, dynamic content delivery.
           </p>
         </motion.div>
 
@@ -54,7 +56,7 @@ export default function Experience() {
           className="bg-white p-8 rounded-3xl shadow-md"
         >
           <h3 className="text-xl font-bold text-purple-600">
-            Advanced Associate Software Engineer — Accenture
+            Advanced Associate Software Engineer - Accenture
           </h3>
           <p className="text-gray-500 mt-1">Jul 2022 – Jul 2023 | Hyderabad, India</p>
 
@@ -74,7 +76,7 @@ export default function Experience() {
           className="bg-white p-8 rounded-3xl shadow-md"
         >
           <h3 className="text-xl font-bold text-purple-600">
-            Web Developer Intern — Verzeo
+            Web Developer Intern - Verzeo
           </h3>
           <p className="text-gray-500 mt-1">Jun 2020 – Aug 2020 | Hyderabad, India</p>
 
